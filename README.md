@@ -1,2 +1,1 @@
-# Application
-Network  Automation Web Based with Django
+# Network Automation Web Based with Django
